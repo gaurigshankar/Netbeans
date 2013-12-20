@@ -1,0 +1,922 @@
+[2013/12/08 05:47:28] GetDataFromDB.php Connection Established to DB
+[2013/12/08 05:47:28] GetDataFromDB.phpCannot find the database 
+[2013/12/08 05:47:28] GetDataFromDB.phpDatabase selected..
+[2013/12/08 05:47:28] GetDataFromDB.phpConnection closed
+[2013/12/08 06:05:50] GetDataFromDB.php Connection Established to DB
+[2013/12/08 06:05:50] GetDataFromDB.php Database selected..
+[2013/12/08 06:05:50] GetDataFromDB.php Connection closed
+[2013/12/08 06:05:53] GetDataFromDB.php Connection Established to DB
+[2013/12/08 06:05:53] GetDataFromDB.php Database selected..
+[2013/12/08 06:05:53] GetDataFromDB.php Connection closed
+[2013/12/08 07:54:07] GetDataFromDB.php Cannot find the database mysql
+[2013/12/08 07:54:07] GetDataFromDB.php Database selected..
+[2013/12/08 07:54:07] GetDataFromDB.php Connection closed
+[2013/12/08 07:54:10] GetDataFromDB.php Cannot find the database mysql
+[2013/12/08 07:54:10] GetDataFromDB.php Database selected..
+[2013/12/08 07:54:10] GetDataFromDB.php Connection closed
+[2013/12/17 07:43:04] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:43:04] GetDataFromDB.php Database selected..
+[2013/12/17 07:43:04] GetDataFromDB.php Connection closed
+[2013/12/17 07:47:42] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:47:42] GetDataFromDB.php Database selected..
+[2013/12/17 07:47:42] GetDataFromDB.php Connection closed
+[2013/12/17 07:53:10] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:53:10] GetDataFromDB.php Database selected..
+[2013/12/17 07:53:10] GetDataFromDB.php Connection closed
+[2013/12/17 07:53:47] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:53:47] GetDataFromDB.php Database selected..
+[2013/12/17 07:53:47] GetDataFromDB.php Connection closed
+[2013/12/17 07:56:00] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:56:00] GetDataFromDB.php Database selected..
+[2013/12/17 07:56:00] GetDataFromDB.php Connection closed
+[2013/12/17 07:57:10] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:57:10] GetDataFromDB.php Database selected..
+[2013/12/17 07:57:10] GetDataFromDB.php Connection closed
+[2013/12/17 07:57:22] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:57:22] GetDataFromDB.php Database selected..
+[2013/12/17 07:57:22] GetDataFromDB.php Connection closed
+[2013/12/17 08:09:05] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:09:05] GetDataFromDB.php Database selected..
+[2013/12/17 08:09:05] GetDataFromDB.php Connection closed
+[2013/12/17 08:10:05] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:10:05] GetDataFromDB.php Database selected..
+[2013/12/17 08:10:05] GetDataFromDB.php Connection closed
+[2013/12/17 08:10:30] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:10:30] GetDataFromDB.php Database selected..
+[2013/12/17 08:10:30] GetDataFromDB.php Connection closed
+[2013/12/17 08:10:32] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:10:32] GetDataFromDB.php Database selected..
+[2013/12/17 08:10:32] GetDataFromDB.php Connection closed
+[2013/12/17 08:10:33] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:10:33] GetDataFromDB.php Database selected..
+[2013/12/17 08:10:33] GetDataFromDB.php Connection closed
+[2013/12/17 08:10:33] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:10:33] GetDataFromDB.php Database selected..
+[2013/12/17 08:10:33] GetDataFromDB.php Connection closed
+[2013/12/17 08:10:35] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:10:35] GetDataFromDB.php Database selected..
+[2013/12/17 08:10:35] GetDataFromDB.php Connection closed
+[2013/12/17 08:10:37] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:10:37] GetDataFromDB.php Database selected..
+[2013/12/17 08:10:37] GetDataFromDB.php Connection closed
+[2013/12/17 08:10:57] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:10:57] GetDataFromDB.php Database selected..
+[2013/12/17 08:10:57] GetDataFromDB.php Connection closed
+[2013/12/17 08:23:23] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:23:23] GetDataFromDB.php Database selected..
+[2013/12/17 08:23:23] GetDataFromDB.php Connection closed
+[2013/12/17 08:57:45] GetDataFromDB.php Connection Established to DB
+[2013/12/17 08:57:45] GetDataFromDB.php Database selected..
+[2013/12/17 08:57:45] GetDataFromDB.php Connection closed
+[2013/12/17 09:02:34] GetDataFromDB.php Connection Established to DB
+[2013/12/17 09:02:34] GetDataFromDB.php Database selected..
+[2013/12/17 09:02:34] GetDataFromDB.php Connection closed
+[2013/12/17 09:03:30] GetDataFromDB.php Connection Established to DB
+[2013/12/17 09:03:30] GetDataFromDB.php Database selected..
+[2013/12/17 09:03:30] GetDataFromDB.php Connection closed
+[2013/12/17 09:03:56] GetDataFromDB.php Connection Established to DB
+[2013/12/17 09:03:56] GetDataFromDB.php Database selected..
+[2013/12/17 09:03:56] GetDataFromDB.php Connection closed
+[2013/12/17 09:10:13] GetDataFromDB.php Connection Established to DB
+[2013/12/17 09:10:13] GetDataFromDB.php Database selected..
+[2013/12/17 09:10:13] GetDataFromDB.php Connection closed
+[2013/12/17 09:15:11] GetDataFromDB.php Connection Established to DB
+[2013/12/17 09:15:11] GetDataFromDB.php Database selected..
+[2013/12/17 09:15:11] GetDataFromDB.php Connection closed
+[2013/12/17 06:39:35] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:39:35] GetDataFromDB.php Database selected..
+[2013/12/17 06:39:35] GetDataFromDB.php Connection closed
+[2013/12/17 06:39:53] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:39:53] GetDataFromDB.php Database selected..
+[2013/12/17 06:39:53] GetDataFromDB.php Connection closed
+[2013/12/17 06:42:08] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:42:08] GetDataFromDB.php Database selected..
+[2013/12/17 06:42:08] GetDataFromDB.php Connection closed
+[2013/12/17 06:44:11] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:44:11] GetDataFromDB.php Database selected..
+[2013/12/17 06:44:11] GetDataFromDB.php Connection closed
+[2013/12/17 06:44:29] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:44:29] GetDataFromDB.php Database selected..
+[2013/12/17 06:44:29] GetDataFromDB.php Connection closed
+[2013/12/17 06:52:13] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:52:13] GetDataFromDB.php Database selected..
+[2013/12/17 06:52:13] GetDataFromDB.php Connection closed
+[2013/12/17 06:54:51] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:54:51] GetDataFromDB.php Database selected..
+[2013/12/17 06:54:51] GetDataFromDB.php Connection closed
+[2013/12/17 06:55:41] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:55:41] GetDataFromDB.php Database selected..
+[2013/12/17 06:55:41] GetDataFromDB.php Connection closed
+[2013/12/17 06:57:28] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:57:28] GetDataFromDB.php Database selected..
+[2013/12/17 06:57:28] GetDataFromDB.php Connection closed
+[2013/12/17 06:57:46] GetDataFromDB.php Connection Established to DB
+[2013/12/17 06:57:46] GetDataFromDB.php Database selected..
+[2013/12/17 06:57:46] GetDataFromDB.php Connection closed
+[2013/12/17 07:30:11] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:30:11] GetDataFromDB.php Database selected..
+[2013/12/17 07:30:11] GetDataFromDB.php Connection closed
+[2013/12/17 07:40:32] GetDataFromDB.php Connection Established to DB
+[2013/12/17 07:40:32] GetDataFromDB.php Database selected..
+[2013/12/17 07:40:32] GetDataFromDB.php Connection closed
+[2013/12/18 04:59:22] GetDataFromDB.php Connection Established to DB
+[2013/12/18 04:59:22] GetDataFromDB.php Database selected..
+[2013/12/18 04:59:22] GetDataFromDB.php Connection closed
+[2013/12/18 04:59:57] GetDataFromDB.php Connection Established to DB
+[2013/12/18 04:59:57] GetDataFromDB.php Database selected..
+[2013/12/18 04:59:57] GetDataFromDB.php Connection closed
+[2013/12/18 05:04:28] GetDataFromDB.php Connection Established to DB
+[2013/12/18 05:04:29] GetDataFromDB.php Database selected..
+[2013/12/18 05:04:29] GetDataFromDB.php Connection closed
+[2013/12/18 06:40:46] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:40:46] GetDataFromDB.php Database selected..
+[2013/12/18 06:40:46] GetDataFromDB.php Connection closed
+[2013/12/18 06:41:54] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:41:54] GetDataFromDB.php Database selected..
+[2013/12/18 06:41:54] GetDataFromDB.php Connection closed
+[2013/12/18 06:42:42] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:42:42] GetDataFromDB.php Database selected..
+[2013/12/18 06:42:42] GetDataFromDB.php Connection closed
+[2013/12/18 06:43:34] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:43:34] GetDataFromDB.php Database selected..
+[2013/12/18 06:43:34] GetDataFromDB.php Connection closed
+[2013/12/18 06:45:20] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:45:20] GetDataFromDB.php Database selected..
+[2013/12/18 06:45:20] GetDataFromDB.php Connection closed
+[2013/12/18 06:46:07] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:46:07] GetDataFromDB.php Database selected..
+[2013/12/18 06:46:07] GetDataFromDB.php Connection closed
+[2013/12/18 06:46:47] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:46:47] GetDataFromDB.php Database selected..
+[2013/12/18 06:46:47] GetDataFromDB.php Connection closed
+[2013/12/18 06:48:03] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:48:03] GetDataFromDB.php Database selected..
+[2013/12/18 06:48:03] GetDataFromDB.php Connection closed
+[2013/12/18 06:48:59] GetDataFromDB.php Connection Established to DB
+[2013/12/18 06:48:59] GetDataFromDB.php Database selected..
+[2013/12/18 06:48:59] GetDataFromDB.php Connection closed
+[2013/12/18 07:02:01] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:02:01] GetDataFromDB.php Database selected..
+[2013/12/18 07:02:01] GetDataFromDB.php Connection closed
+[2013/12/18 07:02:52] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:02:52] GetDataFromDB.php Database selected..
+[2013/12/18 07:02:52] GetDataFromDB.php Connection closed
+[2013/12/18 07:03:50] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:03:50] GetDataFromDB.php Database selected..
+[2013/12/18 07:03:50] GetDataFromDB.php Connection closed
+[2013/12/18 07:05:06] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:05:06] GetDataFromDB.php Database selected..
+[2013/12/18 07:05:06] GetDataFromDB.php Connection closed
+[2013/12/18 07:06:04] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:06:04] GetDataFromDB.php Database selected..
+[2013/12/18 07:06:04] GetDataFromDB.php Connection closed
+[2013/12/18 07:06:55] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:06:55] GetDataFromDB.php Database selected..
+[2013/12/18 07:06:55] GetDataFromDB.php Connection closed
+[2013/12/18 07:07:54] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:07:54] GetDataFromDB.php Database selected..
+[2013/12/18 07:07:54] GetDataFromDB.php Connection closed
+[2013/12/18 07:08:46] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:08:46] GetDataFromDB.php Database selected..
+[2013/12/18 07:08:46] GetDataFromDB.php Connection closed
+[2013/12/18 07:10:01] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:10:01] GetDataFromDB.php Database selected..
+[2013/12/18 07:10:01] GetDataFromDB.php Connection closed
+[2013/12/18 07:10:53] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:10:53] GetDataFromDB.php Database selected..
+[2013/12/18 07:10:53] GetDataFromDB.php Connection closed
+[2013/12/18 07:11:46] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:11:46] GetDataFromDB.php Database selected..
+[2013/12/18 07:11:46] GetDataFromDB.php Connection closed
+[2013/12/18 07:12:39] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:12:39] GetDataFromDB.php Database selected..
+[2013/12/18 07:12:39] GetDataFromDB.php Connection closed
+[2013/12/18 07:13:35] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:13:35] GetDataFromDB.php Database selected..
+[2013/12/18 07:13:35] GetDataFromDB.php Connection closed
+[2013/12/18 07:14:04] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:14:04] GetDataFromDB.php Database selected..
+[2013/12/18 07:14:04] GetDataFromDB.php Connection closed
+[2013/12/18 07:14:44] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:14:44] GetDataFromDB.php Database selected..
+[2013/12/18 07:14:44] GetDataFromDB.php Connection closed
+[2013/12/18 07:17:34] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:17:34] GetDataFromDB.php Database selected..
+[2013/12/18 07:17:34] GetDataFromDB.php Connection closed
+[2013/12/18 07:17:49] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:17:49] GetDataFromDB.php Database selected..
+[2013/12/18 07:17:49] GetDataFromDB.php Connection closed
+[2013/12/18 07:20:31] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:20:31] GetDataFromDB.php Database selected..
+[2013/12/18 07:20:31] GetDataFromDB.php Connection closed
+[2013/12/18 07:20:47] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:20:47] GetDataFromDB.php Database selected..
+[2013/12/18 07:20:47] GetDataFromDB.php Connection closed
+[2013/12/18 07:21:06] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:21:06] GetDataFromDB.php Database selected..
+[2013/12/18 07:21:06] GetDataFromDB.php Connection closed
+[2013/12/18 07:21:45] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:21:45] GetDataFromDB.php Database selected..
+[2013/12/18 07:21:45] GetDataFromDB.php Connection closed
+[2013/12/18 07:26:45] GetDataFromDB.php Connection Established to DB
+[2013/12/18 07:26:45] GetDataFromDB.php Database selected..
+[2013/12/18 07:26:45] GetDataFromDB.php Connection closed
+[2013/12/18 09:04:39] GetDataFromDB.php Connection Established to DB
+[2013/12/18 09:04:39] GetDataFromDB.php Database selected..
+[2013/12/18 09:04:39] GetDataFromDB.php Connection closed
+[2013/12/18 09:38:14] GetDataFromDB.php Connection Established to DB
+[2013/12/18 09:38:14] GetDataFromDB.php Database selected..
+[2013/12/18 09:38:14] GetDataFromDB.php Connection closed
+[2013/12/18 09:40:35] GetDataFromDB.php Connection Established to DB
+[2013/12/18 09:40:35] GetDataFromDB.php Database selected..
+[2013/12/18 09:40:35] GetDataFromDB.php Connection closed
+[2013/12/18 09:44:00] GetDataFromDB.php Connection Established to DB
+[2013/12/18 09:44:00] GetDataFromDB.php Database selected..
+[2013/12/18 09:44:00] GetDataFromDB.php Connection closed
+[2013/12/18 09:44:59] GetDataFromDB.php Connection Established to DB
+[2013/12/18 09:44:59] GetDataFromDB.php Database selected..
+[2013/12/18 09:44:59] GetDataFromDB.php Connection closed
+[2013/12/18 09:46:16] GetDataFromDB.php Connection Established to DB
+[2013/12/18 09:46:16] GetDataFromDB.php Database selected..
+[2013/12/18 09:46:16] GetDataFromDB.php Connection closed
+[2013/12/18 09:54:28] GetDataFromDB.php Connection Established to DB
+[2013/12/18 09:54:28] GetDataFromDB.php Database selected..
+[2013/12/18 09:54:28] GetDataFromDB.php Connection closed
+[2013/12/18 09:58:25] GetDataFromDB.php Connection Established to DB
+[2013/12/18 09:58:25] GetDataFromDB.php Database selected..
+[2013/12/18 09:58:25] GetDataFromDB.php Connection closed
+[2013/12/18 10:03:03] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:03:03] GetDataFromDB.php Database selected..
+[2013/12/18 10:03:03] GetDataFromDB.php Connection closed
+[2013/12/18 10:04:22] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:04:22] GetDataFromDB.php Database selected..
+[2013/12/18 10:04:22] GetDataFromDB.php Connection closed
+[2013/12/18 10:06:51] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:06:51] GetDataFromDB.php Database selected..
+[2013/12/18 10:06:51] GetDataFromDB.php Connection closed
+[2013/12/18 10:07:59] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:07:59] GetDataFromDB.php Database selected..
+[2013/12/18 10:07:59] GetDataFromDB.php Connection closed
+[2013/12/18 10:08:58] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:08:58] GetDataFromDB.php Database selected..
+[2013/12/18 10:08:58] GetDataFromDB.php Connection closed
+[2013/12/18 10:09:45] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:09:46] GetDataFromDB.php Database selected..
+[2013/12/18 10:09:46] GetDataFromDB.php Connection closed
+[2013/12/18 10:09:59] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:09:59] GetDataFromDB.php Database selected..
+[2013/12/18 10:09:59] GetDataFromDB.php Connection closed
+[2013/12/18 10:10:46] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:10:46] GetDataFromDB.php Database selected..
+[2013/12/18 10:10:46] GetDataFromDB.php Connection closed
+[2013/12/18 10:11:41] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:11:41] GetDataFromDB.php Database selected..
+[2013/12/18 10:11:41] GetDataFromDB.php Connection closed
+[2013/12/18 10:11:51] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:11:51] GetDataFromDB.php Database selected..
+[2013/12/18 10:11:51] GetDataFromDB.php Connection closed
+[2013/12/18 10:12:38] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:12:38] GetDataFromDB.php Database selected..
+[2013/12/18 10:12:38] GetDataFromDB.php Connection closed
+[2013/12/18 10:12:48] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:12:48] GetDataFromDB.php Database selected..
+[2013/12/18 10:12:48] GetDataFromDB.php Connection closed
+[2013/12/18 10:13:32] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:13:32] GetDataFromDB.php Database selected..
+[2013/12/18 10:13:32] GetDataFromDB.php Connection closed
+[2013/12/18 10:14:00] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:14:00] GetDataFromDB.php Database selected..
+[2013/12/18 10:14:00] GetDataFromDB.php Connection closed
+[2013/12/18 10:14:51] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:14:51] GetDataFromDB.php Database selected..
+[2013/12/18 10:14:51] GetDataFromDB.php Connection closed
+[2013/12/18 10:15:36] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:15:36] GetDataFromDB.php Database selected..
+[2013/12/18 10:15:36] GetDataFromDB.php Connection closed
+[2013/12/18 10:16:35] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:16:35] GetDataFromDB.php Database selected..
+[2013/12/18 10:16:35] GetDataFromDB.php Connection closed
+[2013/12/18 10:17:25] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:17:25] GetDataFromDB.php Database selected..
+[2013/12/18 10:17:25] GetDataFromDB.php Connection closed
+[2013/12/18 10:17:57] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:17:57] GetDataFromDB.php Database selected..
+[2013/12/18 10:17:57] GetDataFromDB.php Connection closed
+[2013/12/18 10:18:42] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:18:42] GetDataFromDB.php Database selected..
+[2013/12/18 10:18:42] GetDataFromDB.php Connection closed
+[2013/12/18 10:19:38] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:19:38] GetDataFromDB.php Database selected..
+[2013/12/18 10:19:38] GetDataFromDB.php Connection closed
+[2013/12/18 10:19:47] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:19:47] GetDataFromDB.php Database selected..
+[2013/12/18 10:19:47] GetDataFromDB.php Connection closed
+[2013/12/18 10:21:24] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:21:24] GetDataFromDB.php Database selected..
+[2013/12/18 10:21:24] GetDataFromDB.php Connection closed
+[2013/12/18 10:22:35] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:22:35] GetDataFromDB.php Database selected..
+[2013/12/18 10:22:35] GetDataFromDB.php Connection closed
+[2013/12/18 10:22:58] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:22:58] GetDataFromDB.php Database selected..
+[2013/12/18 10:22:58] GetDataFromDB.php Connection closed
+[2013/12/18 10:23:47] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:23:47] GetDataFromDB.php Database selected..
+[2013/12/18 10:23:47] GetDataFromDB.php Connection closed
+[2013/12/18 10:24:02] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:24:02] GetDataFromDB.php Database selected..
+[2013/12/18 10:24:02] GetDataFromDB.php Connection closed
+[2013/12/18 10:25:04] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:25:04] GetDataFromDB.php Database selected..
+[2013/12/18 10:25:04] GetDataFromDB.php Connection closed
+[2013/12/18 10:25:51] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:25:51] GetDataFromDB.php Database selected..
+[2013/12/18 10:25:51] GetDataFromDB.php Connection closed
+[2013/12/18 10:26:00] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:26:00] GetDataFromDB.php Database selected..
+[2013/12/18 10:26:00] GetDataFromDB.php Connection closed
+[2013/12/18 10:26:48] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:26:48] GetDataFromDB.php Database selected..
+[2013/12/18 10:26:48] GetDataFromDB.php Connection closed
+[2013/12/18 10:27:23] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:27:23] GetDataFromDB.php Database selected..
+[2013/12/18 10:27:23] GetDataFromDB.php Connection closed
+[2013/12/18 10:27:50] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:27:50] GetDataFromDB.php Database selected..
+[2013/12/18 10:27:50] GetDataFromDB.php Connection closed
+[2013/12/18 10:28:46] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:28:46] GetDataFromDB.php Database selected..
+[2013/12/18 10:28:46] GetDataFromDB.php Connection closed
+[2013/12/18 10:28:54] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:28:54] GetDataFromDB.php Database selected..
+[2013/12/18 10:28:54] GetDataFromDB.php Connection closed
+[2013/12/18 10:29:45] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:29:45] GetDataFromDB.php Database selected..
+[2013/12/18 10:29:45] GetDataFromDB.php Connection closed
+[2013/12/18 10:29:52] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:29:52] GetDataFromDB.php Database selected..
+[2013/12/18 10:29:52] GetDataFromDB.php Connection closed
+[2013/12/18 10:30:48] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:30:48] GetDataFromDB.php Database selected..
+[2013/12/18 10:30:48] GetDataFromDB.php Connection closed
+[2013/12/18 10:30:48] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:30:48] GetDataFromDB.php Database selected..
+[2013/12/18 10:30:48] GetDataFromDB.php Connection closed
+[2013/12/18 10:31:45] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:31:45] GetDataFromDB.php Database selected..
+[2013/12/18 10:31:45] GetDataFromDB.php Connection closed
+[2013/12/18 10:31:52] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:31:52] GetDataFromDB.php Database selected..
+[2013/12/18 10:31:52] GetDataFromDB.php Connection closed
+[2013/12/18 10:32:47] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:32:47] GetDataFromDB.php Database selected..
+[2013/12/18 10:32:47] GetDataFromDB.php Connection closed
+[2013/12/18 10:32:57] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:32:57] GetDataFromDB.php Database selected..
+[2013/12/18 10:32:57] GetDataFromDB.php Connection closed
+[2013/12/18 10:37:23] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:37:23] GetDataFromDB.php Database selected..
+[2013/12/18 10:37:23] GetDataFromDB.php Connection closed
+[2013/12/18 10:39:32] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:39:32] GetDataFromDB.php Database selected..
+[2013/12/18 10:39:32] GetDataFromDB.php Connection closed
+[2013/12/18 10:39:57] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:39:57] GetDataFromDB.php Database selected..
+[2013/12/18 10:39:57] GetDataFromDB.php Connection closed
+[2013/12/18 10:41:46] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:41:46] GetDataFromDB.php Database selected..
+[2013/12/18 10:41:46] GetDataFromDB.php Connection closed
+[2013/12/18 10:43:35] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:43:35] GetDataFromDB.php Database selected..
+[2013/12/18 10:43:35] GetDataFromDB.php Connection closed
+[2013/12/18 10:47:36] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:47:36] GetDataFromDB.php Database selected..
+[2013/12/18 10:47:36] GetDataFromDB.php Connection closed
+[2013/12/18 10:49:12] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:49:12] GetDataFromDB.php Database selected..
+[2013/12/18 10:49:12] GetDataFromDB.php Connection closed
+[2013/12/18 10:49:27] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:49:27] GetDataFromDB.php Database selected..
+[2013/12/18 10:49:28] GetDataFromDB.php Connection closed
+[2013/12/18 10:50:18] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:50:18] GetDataFromDB.php Database selected..
+[2013/12/18 10:50:18] GetDataFromDB.php Connection closed
+[2013/12/18 10:51:05] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:51:05] GetDataFromDB.php Database selected..
+[2013/12/18 10:51:05] GetDataFromDB.php Connection closed
+[2013/12/18 10:51:14] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:51:14] GetDataFromDB.php Database selected..
+[2013/12/18 10:51:14] GetDataFromDB.php Connection closed
+[2013/12/18 10:52:03] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:52:03] GetDataFromDB.php Database selected..
+[2013/12/18 10:52:03] GetDataFromDB.php Connection closed
+[2013/12/18 10:52:30] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:52:30] GetDataFromDB.php Database selected..
+[2013/12/18 10:52:30] GetDataFromDB.php Connection closed
+[2013/12/18 10:52:43] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:52:43] GetDataFromDB.php Database selected..
+[2013/12/18 10:52:43] GetDataFromDB.php Connection closed
+[2013/12/18 10:53:41] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:53:41] GetDataFromDB.php Database selected..
+[2013/12/18 10:53:41] GetDataFromDB.php Connection closed
+[2013/12/18 10:54:28] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:54:28] GetDataFromDB.php Database selected..
+[2013/12/18 10:54:28] GetDataFromDB.php Connection closed
+[2013/12/18 10:55:06] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:55:06] GetDataFromDB.php Database selected..
+[2013/12/18 10:55:06] GetDataFromDB.php Connection closed
+[2013/12/18 10:55:21] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:55:21] GetDataFromDB.php Database selected..
+[2013/12/18 10:55:21] GetDataFromDB.php Connection closed
+[2013/12/18 10:55:54] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:55:54] GetDataFromDB.php Database selected..
+[2013/12/18 10:55:54] GetDataFromDB.php Connection closed
+[2013/12/18 10:56:05] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:56:05] GetDataFromDB.php Database selected..
+[2013/12/18 10:56:05] GetDataFromDB.php Connection closed
+[2013/12/18 10:56:31] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:56:31] GetDataFromDB.php Database selected..
+[2013/12/18 10:56:31] GetDataFromDB.php Connection closed
+[2013/12/18 10:57:01] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:57:01] GetDataFromDB.php Database selected..
+[2013/12/18 10:57:01] GetDataFromDB.php Connection closed
+[2013/12/18 10:57:15] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:57:15] GetDataFromDB.php Database selected..
+[2013/12/18 10:57:15] GetDataFromDB.php Connection closed
+[2013/12/18 10:57:37] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:57:37] GetDataFromDB.php Database selected..
+[2013/12/18 10:57:37] GetDataFromDB.php Connection closed
+[2013/12/18 10:58:14] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:58:14] GetDataFromDB.php Database selected..
+[2013/12/18 10:58:14] GetDataFromDB.php Connection closed
+[2013/12/18 10:58:28] GetDataFromDB.php Connection Established to DB
+[2013/12/18 10:58:28] GetDataFromDB.php Database selected..
+[2013/12/18 10:58:28] GetDataFromDB.php Connection closed
+[2013/12/18 11:00:14] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:00:14] GetDataFromDB.php Database selected..
+[2013/12/18 11:00:14] GetDataFromDB.php Connection closed
+[2013/12/18 11:01:01] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:01:01] GetDataFromDB.php Database selected..
+[2013/12/18 11:01:01] GetDataFromDB.php Connection closed
+[2013/12/18 11:02:23] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:02:23] GetDataFromDB.php Database selected..
+[2013/12/18 11:02:23] GetDataFromDB.php Connection closed
+[2013/12/18 11:04:41] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:04:41] GetDataFromDB.php Database selected..
+[2013/12/18 11:04:41] GetDataFromDB.php Connection closed
+[2013/12/18 11:06:10] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:06:10] GetDataFromDB.php Database selected..
+[2013/12/18 11:06:10] GetDataFromDB.php Connection closed
+[2013/12/18 11:08:23] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:08:23] GetDataFromDB.php Database selected..
+[2013/12/18 11:08:23] GetDataFromDB.php Connection closed
+[2013/12/18 11:09:33] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:09:33] GetDataFromDB.php Database selected..
+[2013/12/18 11:09:34] GetDataFromDB.php Connection closed
+[2013/12/18 11:10:02] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:10:02] GetDataFromDB.php Database selected..
+[2013/12/18 11:10:02] GetDataFromDB.php Connection closed
+[2013/12/18 11:11:00] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:11:00] GetDataFromDB.php Database selected..
+[2013/12/18 11:11:00] GetDataFromDB.php Connection closed
+[2013/12/18 11:13:36] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:13:36] GetDataFromDB.php Database selected..
+[2013/12/18 11:13:36] GetDataFromDB.php Connection closed
+[2013/12/18 11:14:22] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:14:22] GetDataFromDB.php Database selected..
+[2013/12/18 11:14:22] GetDataFromDB.php Connection closed
+[2013/12/18 11:15:25] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:15:25] GetDataFromDB.php Database selected..
+[2013/12/18 11:15:25] GetDataFromDB.php Connection closed
+[2013/12/18 11:16:28] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:16:28] GetDataFromDB.php Database selected..
+[2013/12/18 11:16:28] GetDataFromDB.php Connection closed
+[2013/12/18 11:17:26] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:17:27] GetDataFromDB.php Database selected..
+[2013/12/18 11:17:27] GetDataFromDB.php Connection closed
+[2013/12/18 11:18:27] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:18:27] GetDataFromDB.php Database selected..
+[2013/12/18 11:18:27] GetDataFromDB.php Connection closed
+[2013/12/18 11:19:22] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:19:22] GetDataFromDB.php Database selected..
+[2013/12/18 11:19:22] GetDataFromDB.php Connection closed
+[2013/12/18 11:20:22] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:20:22] GetDataFromDB.php Database selected..
+[2013/12/18 11:20:22] GetDataFromDB.php Connection closed
+[2013/12/18 11:21:23] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:21:23] GetDataFromDB.php Database selected..
+[2013/12/18 11:21:23] GetDataFromDB.php Connection closed
+[2013/12/18 11:22:27] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:22:27] GetDataFromDB.php Database selected..
+[2013/12/18 11:22:27] GetDataFromDB.php Connection closed
+[2013/12/18 11:23:28] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:23:28] GetDataFromDB.php Database selected..
+[2013/12/18 11:23:28] GetDataFromDB.php Connection closed
+[2013/12/18 11:24:12] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:24:12] GetDataFromDB.php Database selected..
+[2013/12/18 11:24:12] GetDataFromDB.php Connection closed
+[2013/12/18 11:25:12] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:25:12] GetDataFromDB.php Database selected..
+[2013/12/18 11:25:12] GetDataFromDB.php Connection closed
+[2013/12/18 11:26:20] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:26:20] GetDataFromDB.php Database selected..
+[2013/12/18 11:26:20] GetDataFromDB.php Connection closed
+[2013/12/18 11:29:59] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:29:59] GetDataFromDB.php Database selected..
+[2013/12/18 11:29:59] GetDataFromDB.php Connection closed
+[2013/12/18 11:30:38] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:30:38] GetDataFromDB.php Database selected..
+[2013/12/18 11:30:38] GetDataFromDB.php Connection closed
+[2013/12/18 11:31:20] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:31:20] GetDataFromDB.php Database selected..
+[2013/12/18 11:31:20] GetDataFromDB.php Connection closed
+[2013/12/18 11:32:01] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:32:01] GetDataFromDB.php Database selected..
+[2013/12/18 11:32:01] GetDataFromDB.php Connection closed
+[2013/12/18 11:33:15] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:33:15] GetDataFromDB.php Database selected..
+[2013/12/18 11:33:15] GetDataFromDB.php Connection closed
+[2013/12/18 11:34:00] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:34:00] GetDataFromDB.php Database selected..
+[2013/12/18 11:34:00] GetDataFromDB.php Connection closed
+[2013/12/18 11:34:36] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:34:36] GetDataFromDB.php Database selected..
+[2013/12/18 11:34:36] GetDataFromDB.php Connection closed
+[2013/12/18 11:35:19] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:35:19] GetDataFromDB.php Database selected..
+[2013/12/18 11:35:19] GetDataFromDB.php Connection closed
+[2013/12/18 11:36:00] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:36:00] GetDataFromDB.php Database selected..
+[2013/12/18 11:36:00] GetDataFromDB.php Connection closed
+[2013/12/18 11:36:44] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:36:44] GetDataFromDB.php Database selected..
+[2013/12/18 11:36:44] GetDataFromDB.php Connection closed
+[2013/12/18 11:37:35] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:37:35] GetDataFromDB.php Database selected..
+[2013/12/18 11:37:35] GetDataFromDB.php Connection closed
+[2013/12/18 11:38:19] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:38:19] GetDataFromDB.php Database selected..
+[2013/12/18 11:38:19] GetDataFromDB.php Connection closed
+[2013/12/18 11:38:58] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:38:58] GetDataFromDB.php Database selected..
+[2013/12/18 11:38:58] GetDataFromDB.php Connection closed
+[2013/12/18 11:39:53] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:39:53] GetDataFromDB.php Database selected..
+[2013/12/18 11:39:53] GetDataFromDB.php Connection closed
+[2013/12/18 11:40:40] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:40:40] GetDataFromDB.php Database selected..
+[2013/12/18 11:40:40] GetDataFromDB.php Connection closed
+[2013/12/18 11:41:26] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:41:26] GetDataFromDB.php Database selected..
+[2013/12/18 11:41:26] GetDataFromDB.php Connection closed
+[2013/12/18 11:42:16] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:42:16] GetDataFromDB.php Database selected..
+[2013/12/18 11:42:16] GetDataFromDB.php Connection closed
+[2013/12/18 11:43:04] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:43:04] GetDataFromDB.php Database selected..
+[2013/12/18 11:43:04] GetDataFromDB.php Connection closed
+[2013/12/18 11:43:45] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:43:45] GetDataFromDB.php Database selected..
+[2013/12/18 11:43:45] GetDataFromDB.php Connection closed
+[2013/12/18 11:44:34] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:44:34] GetDataFromDB.php Database selected..
+[2013/12/18 11:44:34] GetDataFromDB.php Connection closed
+[2013/12/18 11:45:48] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:45:48] GetDataFromDB.php Database selected..
+[2013/12/18 11:45:48] GetDataFromDB.php Connection closed
+[2013/12/18 11:46:52] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:46:52] GetDataFromDB.php Database selected..
+[2013/12/18 11:46:52] GetDataFromDB.php Connection closed
+[2013/12/18 11:47:27] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:47:27] GetDataFromDB.php Database selected..
+[2013/12/18 11:47:27] GetDataFromDB.php Connection closed
+[2013/12/18 11:49:10] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:49:10] GetDataFromDB.php Database selected..
+[2013/12/18 11:49:10] GetDataFromDB.php Connection closed
+[2013/12/18 11:50:11] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:50:11] GetDataFromDB.php Database selected..
+[2013/12/18 11:50:11] GetDataFromDB.php Connection closed
+[2013/12/18 11:51:03] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:51:03] GetDataFromDB.php Database selected..
+[2013/12/18 11:51:03] GetDataFromDB.php Connection closed
+[2013/12/18 11:51:54] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:51:54] GetDataFromDB.php Database selected..
+[2013/12/18 11:51:54] GetDataFromDB.php Connection closed
+[2013/12/18 11:55:00] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:55:00] GetDataFromDB.php Database selected..
+[2013/12/18 11:55:00] GetDataFromDB.php Connection closed
+[2013/12/18 11:55:58] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:55:58] GetDataFromDB.php Database selected..
+[2013/12/18 11:55:58] GetDataFromDB.php Connection closed
+[2013/12/18 11:56:58] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:56:58] GetDataFromDB.php Database selected..
+[2013/12/18 11:56:58] GetDataFromDB.php Connection closed
+[2013/12/18 11:57:46] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:57:46] GetDataFromDB.php Database selected..
+[2013/12/18 11:57:46] GetDataFromDB.php Connection closed
+[2013/12/18 11:59:02] GetDataFromDB.php Connection Established to DB
+[2013/12/18 11:59:02] GetDataFromDB.php Database selected..
+[2013/12/18 11:59:02] GetDataFromDB.php Connection closed
+[2013/12/18 12:00:31] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:00:31] GetDataFromDB.php Database selected..
+[2013/12/18 12:00:31] GetDataFromDB.php Connection closed
+[2013/12/18 12:01:47] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:01:47] GetDataFromDB.php Database selected..
+[2013/12/18 12:01:47] GetDataFromDB.php Connection closed
+[2013/12/18 12:02:35] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:02:35] GetDataFromDB.php Database selected..
+[2013/12/18 12:02:35] GetDataFromDB.php Connection closed
+[2013/12/18 12:03:22] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:03:22] GetDataFromDB.php Database selected..
+[2013/12/18 12:03:22] GetDataFromDB.php Connection closed
+[2013/12/18 12:04:35] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:04:35] GetDataFromDB.php Database selected..
+[2013/12/18 12:04:35] GetDataFromDB.php Connection closed
+[2013/12/18 12:05:32] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:05:32] GetDataFromDB.php Database selected..
+[2013/12/18 12:05:32] GetDataFromDB.php Connection closed
+[2013/12/18 12:06:58] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:06:58] GetDataFromDB.php Database selected..
+[2013/12/18 12:06:58] GetDataFromDB.php Connection closed
+[2013/12/18 12:07:49] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:07:49] GetDataFromDB.php Database selected..
+[2013/12/18 12:07:49] GetDataFromDB.php Connection closed
+[2013/12/18 12:10:31] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:10:31] GetDataFromDB.php Database selected..
+[2013/12/18 12:10:31] GetDataFromDB.php Connection closed
+[2013/12/18 12:11:08] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:11:08] GetDataFromDB.php Database selected..
+[2013/12/18 12:11:08] GetDataFromDB.php Connection closed
+[2013/12/18 12:11:33] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:11:33] GetDataFromDB.php Database selected..
+[2013/12/18 12:11:33] GetDataFromDB.php Connection closed
+[2013/12/18 12:12:41] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:12:41] GetDataFromDB.php Database selected..
+[2013/12/18 12:12:41] GetDataFromDB.php Connection closed
+[2013/12/18 12:13:28] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:13:28] GetDataFromDB.php Database selected..
+[2013/12/18 12:13:28] GetDataFromDB.php Connection closed
+[2013/12/18 12:14:29] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:14:29] GetDataFromDB.php Database selected..
+[2013/12/18 12:14:29] GetDataFromDB.php Connection closed
+[2013/12/18 12:15:57] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:15:57] GetDataFromDB.php Database selected..
+[2013/12/18 12:15:57] GetDataFromDB.php Connection closed
+[2013/12/18 12:16:46] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:16:46] GetDataFromDB.php Database selected..
+[2013/12/18 12:16:46] GetDataFromDB.php Connection closed
+[2013/12/18 12:25:02] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:25:02] GetDataFromDB.php Database selected..
+[2013/12/18 12:25:02] GetDataFromDB.php Connection closed
+[2013/12/18 12:26:10] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:26:10] GetDataFromDB.php Database selected..
+[2013/12/18 12:26:10] GetDataFromDB.php Connection closed
+[2013/12/18 12:28:41] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:28:41] GetDataFromDB.php Database selected..
+[2013/12/18 12:28:41] GetDataFromDB.php Connection closed
+[2013/12/18 12:30:20] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:30:20] GetDataFromDB.php Database selected..
+[2013/12/18 12:30:20] GetDataFromDB.php Connection closed
+[2013/12/18 12:39:42] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:39:42] GetDataFromDB.php Database selected..
+[2013/12/18 12:39:42] GetDataFromDB.php Connection closed
+[2013/12/18 12:40:45] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:40:45] GetDataFromDB.php Database selected..
+[2013/12/18 12:40:45] GetDataFromDB.php Connection closed
+[2013/12/18 12:43:52] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:43:52] GetDataFromDB.php Database selected..
+[2013/12/18 12:43:52] GetDataFromDB.php Connection closed
+[2013/12/18 12:45:32] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:45:32] GetDataFromDB.php Database selected..
+[2013/12/18 12:45:32] GetDataFromDB.php Connection closed
+[2013/12/18 12:46:45] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:46:45] GetDataFromDB.php Database selected..
+[2013/12/18 12:46:45] GetDataFromDB.php Connection closed
+[2013/12/18 12:47:51] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:47:51] GetDataFromDB.php Database selected..
+[2013/12/18 12:47:51] GetDataFromDB.php Connection closed
+[2013/12/18 12:48:29] GetDataFromDB.php Connection Established to DB
+[2013/12/18 12:48:29] GetDataFromDB.php Database selected..
+[2013/12/18 12:48:29] GetDataFromDB.php Connection closed
+[2013/12/18 08:08:41] GetDataFromDB.php Connection Established to DB
+[2013/12/18 08:08:41] GetDataFromDB.php Database selected..
+[2013/12/18 08:08:41] GetDataFromDB.php Connection closed
+[2013/12/18 08:08:58] GetDataFromDB.php Connection Established to DB
+[2013/12/18 08:08:58] GetDataFromDB.php Database selected..
+[2013/12/18 08:08:58] GetDataFromDB.php Connection closed
+[2013/12/18 08:09:11] GetDataFromDB.php Connection Established to DB
+[2013/12/18 08:09:11] GetDataFromDB.php Database selected..
+[2013/12/18 08:09:11] GetDataFromDB.php Connection closed
+[2013/12/19 06:13:01] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:13:01] GetDataFromDB.php Database selected..
+[2013/12/19 06:13:01] GetDataFromDB.php Connection closed
+[2013/12/19 06:14:45] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:14:45] GetDataFromDB.php Database selected..
+[2013/12/19 06:14:45] GetDataFromDB.php Connection closed
+[2013/12/19 06:15:21] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:15:21] GetDataFromDB.php Database selected..
+[2013/12/19 06:15:21] GetDataFromDB.php Connection closed
+[2013/12/19 06:16:11] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:16:11] GetDataFromDB.php Database selected..
+[2013/12/19 06:16:11] GetDataFromDB.php Connection closed
+[2013/12/19 06:19:29] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:19:29] GetDataFromDB.php Database selected..
+[2013/12/19 06:19:29] GetDataFromDB.php Connection closed
+[2013/12/19 06:20:49] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:20:49] GetDataFromDB.php Database selected..
+[2013/12/19 06:20:49] GetDataFromDB.php Connection closed
+[2013/12/19 06:22:31] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:22:31] GetDataFromDB.php Database selected..
+[2013/12/19 06:22:31] GetDataFromDB.php Connection closed
+[2013/12/19 06:23:27] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:23:27] GetDataFromDB.php Database selected..
+[2013/12/19 06:23:27] GetDataFromDB.php Connection closed
+[2013/12/19 06:24:16] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:24:16] GetDataFromDB.php Database selected..
+[2013/12/19 06:24:16] GetDataFromDB.php Connection closed
+[2013/12/19 06:25:06] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:25:06] GetDataFromDB.php Database selected..
+[2013/12/19 06:25:06] GetDataFromDB.php Connection closed
+[2013/12/19 06:26:11] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:26:11] GetDataFromDB.php Database selected..
+[2013/12/19 06:26:11] GetDataFromDB.php Connection closed
+[2013/12/19 06:27:03] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:27:03] GetDataFromDB.php Database selected..
+[2013/12/19 06:27:03] GetDataFromDB.php Connection closed
+[2013/12/19 06:27:51] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:27:51] GetDataFromDB.php Database selected..
+[2013/12/19 06:27:51] GetDataFromDB.php Connection closed
+[2013/12/19 06:28:41] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:28:41] GetDataFromDB.php Database selected..
+[2013/12/19 06:28:41] GetDataFromDB.php Connection closed
+[2013/12/19 06:29:42] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:29:42] GetDataFromDB.php Database selected..
+[2013/12/19 06:29:42] GetDataFromDB.php Connection closed
+[2013/12/19 06:30:58] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:30:58] GetDataFromDB.php Database selected..
+[2013/12/19 06:30:58] GetDataFromDB.php Connection closed
+[2013/12/19 06:33:49] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:33:49] GetDataFromDB.php Database selected..
+[2013/12/19 06:33:49] GetDataFromDB.php Connection closed
+[2013/12/19 06:35:07] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:35:07] GetDataFromDB.php Database selected..
+[2013/12/19 06:35:07] GetDataFromDB.php Connection closed
+[2013/12/19 06:40:30] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:40:30] GetDataFromDB.php Database selected..
+[2013/12/19 06:40:30] GetDataFromDB.php Connection closed
+[2013/12/19 06:41:48] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:41:48] GetDataFromDB.php Database selected..
+[2013/12/19 06:41:48] GetDataFromDB.php Connection closed
+[2013/12/19 06:42:28] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:42:28] GetDataFromDB.php Database selected..
+[2013/12/19 06:42:28] GetDataFromDB.php Connection closed
+[2013/12/19 06:43:25] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:43:25] GetDataFromDB.php Database selected..
+[2013/12/19 06:43:25] GetDataFromDB.php Connection closed
+[2013/12/19 06:51:36] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:51:36] GetDataFromDB.php Database selected..
+[2013/12/19 06:51:36] GetDataFromDB.php Connection closed
+[2013/12/19 06:53:22] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:53:22] GetDataFromDB.php Database selected..
+[2013/12/19 06:53:22] GetDataFromDB.php Connection closed
+[2013/12/19 06:59:32] GetDataFromDB.php Connection Established to DB
+[2013/12/19 06:59:32] GetDataFromDB.php Database selected..
+[2013/12/19 06:59:32] GetDataFromDB.php Connection closed
+[2013/12/19 07:00:20] GetDataFromDB.php Connection Established to DB
+[2013/12/19 07:00:20] GetDataFromDB.php Database selected..
+[2013/12/19 07:00:20] GetDataFromDB.php Connection closed
+[2013/12/19 07:01:20] GetDataFromDB.php Connection Established to DB
+[2013/12/19 07:01:20] GetDataFromDB.php Database selected..
+[2013/12/19 07:01:20] GetDataFromDB.php Connection closed
+[2013/12/19 07:01:50] GetDataFromDB.php Connection Established to DB
+[2013/12/19 07:01:50] GetDataFromDB.php Database selected..
+[2013/12/19 07:01:50] GetDataFromDB.php Connection closed
+[2013/12/19 07:03:09] GetDataFromDB.php Connection Established to DB
+[2013/12/19 07:03:09] GetDataFromDB.php Database selected..
+[2013/12/19 07:03:09] GetDataFromDB.php Connection closed
+[2013/12/19 07:05:42] GetDataFromDB.php Connection Established to DB
+[2013/12/19 07:05:42] GetDataFromDB.php Database selected..
+[2013/12/19 07:05:42] GetDataFromDB.php Connection closed
+[2013/12/19 07:06:50] GetDataFromDB.php Connection Established to DB
+[2013/12/19 07:06:50] GetDataFromDB.php Database selected..
+[2013/12/19 07:06:50] GetDataFromDB.php Connection closed
+[2013/12/19 07:07:39] GetDataFromDB.php Connection Established to DB
+[2013/12/19 07:07:39] GetDataFromDB.php Database selected..
+[2013/12/19 07:07:39] GetDataFromDB.php Connection closed
+[2013/12/19 08:01:58] GetDataFromDB.php Connection Established to DB
+[2013/12/19 08:01:58] GetDataFromDB.php Database selected..
+[2013/12/19 08:01:58] GetDataFromDB.php Connection closed
+[2013/12/19 09:16:11] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:16:11] GetDataFromDB.php Database selected..
+[2013/12/19 09:16:11] GetDataFromDB.php Connection closed
+[2013/12/19 09:16:49] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:16:49] GetDataFromDB.php Database selected..
+[2013/12/19 09:16:49] GetDataFromDB.php Connection closed
+[2013/12/19 09:17:56] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:17:56] GetDataFromDB.php Database selected..
+[2013/12/19 09:17:56] GetDataFromDB.php Connection closed
+[2013/12/19 09:20:23] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:20:23] GetDataFromDB.php Database selected..
+[2013/12/19 09:20:23] GetDataFromDB.php Connection closed
+[2013/12/19 09:21:16] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:21:16] GetDataFromDB.php Database selected..
+[2013/12/19 09:21:16] GetDataFromDB.php Connection closed
+[2013/12/19 09:23:06] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:23:06] GetDataFromDB.php Database selected..
+[2013/12/19 09:23:06] GetDataFromDB.php Connection closed
+[2013/12/19 09:23:32] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:23:32] GetDataFromDB.php Database selected..
+[2013/12/19 09:23:32] GetDataFromDB.php Connection closed
+[2013/12/19 09:25:21] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:25:21] GetDataFromDB.php Database selected..
+[2013/12/19 09:25:21] GetDataFromDB.php Connection closed
+[2013/12/19 09:27:15] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:27:15] GetDataFromDB.php Database selected..
+[2013/12/19 09:27:15] GetDataFromDB.php Connection closed
+[2013/12/19 09:28:07] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:28:07] GetDataFromDB.php Database selected..
+[2013/12/19 09:28:07] GetDataFromDB.php Connection closed
+[2013/12/19 09:35:04] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:35:04] GetDataFromDB.php Database selected..
+[2013/12/19 09:35:04] GetDataFromDB.php Connection closed
+[2013/12/19 09:36:02] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:36:02] GetDataFromDB.php Database selected..
+[2013/12/19 09:36:02] GetDataFromDB.php Connection closed
+[2013/12/19 09:38:06] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:38:06] GetDataFromDB.php Database selected..
+[2013/12/19 09:38:06] GetDataFromDB.php Connection closed
+[2013/12/19 09:38:52] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:38:52] GetDataFromDB.php Database selected..
+[2013/12/19 09:38:52] GetDataFromDB.php Connection closed
+[2013/12/19 09:40:14] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:40:14] GetDataFromDB.php Database selected..
+[2013/12/19 09:40:14] GetDataFromDB.php Connection closed
+[2013/12/19 10:30:51] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:30:51] GetDataFromDB.php Database selected..
+[2013/12/19 10:30:51] GetDataFromDB.php Connection closed
+[2013/12/19 10:31:49] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:31:49] GetDataFromDB.php Database selected..
+[2013/12/19 10:31:49] GetDataFromDB.php Connection closed
+[2013/12/19 10:31:51] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:31:51] GetDataFromDB.php Database selected..
+[2013/12/19 10:31:51] GetDataFromDB.php Connection closed
+[2013/12/19 10:32:09] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:32:09] GetDataFromDB.php Database selected..
+[2013/12/19 10:32:09] GetDataFromDB.php Connection closed
+[2013/12/19 10:32:26] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:32:26] GetDataFromDB.php Database selected..
+[2013/12/19 10:32:26] GetDataFromDB.php Connection closed
+[2013/12/19 10:32:38] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:32:38] GetDataFromDB.php Database selected..
+[2013/12/19 10:32:38] GetDataFromDB.php Connection closed
+[2013/12/19 10:33:43] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:33:43] GetDataFromDB.php Database selected..
+[2013/12/19 10:33:43] GetDataFromDB.php Connection closed
+[2013/12/19 10:35:12] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:35:12] GetDataFromDB.php Database selected..
+[2013/12/19 10:35:12] GetDataFromDB.php Connection closed
+[2013/12/19 10:36:23] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:36:23] GetDataFromDB.php Database selected..
+[2013/12/19 10:36:23] GetDataFromDB.php Connection closed
+[2013/12/19 10:37:37] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:37:37] GetDataFromDB.php Database selected..
+[2013/12/19 10:37:37] GetDataFromDB.php Connection closed
+[2013/12/19 10:38:10] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:38:10] GetDataFromDB.php Database selected..
+[2013/12/19 10:38:10] GetDataFromDB.php Connection closed
+[2013/12/19 10:39:58] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:39:58] GetDataFromDB.php Database selected..
+[2013/12/19 10:39:58] GetDataFromDB.php Connection closed
+[2013/12/19 10:40:36] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:40:36] GetDataFromDB.php Database selected..
+[2013/12/19 10:40:36] GetDataFromDB.php Connection closed
+[2013/12/19 10:41:35] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:41:35] GetDataFromDB.php Database selected..
+[2013/12/19 10:41:35] GetDataFromDB.php Connection closed
+[2013/12/19 10:42:18] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:42:18] GetDataFromDB.php Database selected..
+[2013/12/19 10:42:18] GetDataFromDB.php Connection closed
+[2013/12/19 10:43:24] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:43:24] GetDataFromDB.php Database selected..
+[2013/12/19 10:43:24] GetDataFromDB.php Connection closed
+[2013/12/19 10:44:36] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:44:36] GetDataFromDB.php Database selected..
+[2013/12/19 10:44:36] GetDataFromDB.php Connection closed
+[2013/12/19 10:45:38] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:45:38] GetDataFromDB.php Database selected..
+[2013/12/19 10:45:38] GetDataFromDB.php Connection closed
+[2013/12/19 10:47:47] GetDataFromDB.php Connection Established to DB
+[2013/12/19 10:47:47] GetDataFromDB.php Database selected..
+[2013/12/19 10:47:47] GetDataFromDB.php Connection closed
+[2013/12/19 11:35:49] GetDataFromDB.php Connection Established to DB
+[2013/12/19 11:35:49] GetDataFromDB.php Database selected..
+[2013/12/19 11:35:49] GetDataFromDB.php Connection closed
+[2013/12/19 11:36:11] GetDataFromDB.php Connection Established to DB
+[2013/12/19 11:36:11] GetDataFromDB.php Database selected..
+[2013/12/19 11:36:11] GetDataFromDB.php Connection closed
+[2013/12/19 11:38:39] GetDataFromDB.php Connection Established to DB
+[2013/12/19 11:38:39] GetDataFromDB.php Database selected..
+[2013/12/19 11:38:39] GetDataFromDB.php Connection closed
+[2013/12/19 09:53:02] GetDataFromDB.php Connection Established to DB
+[2013/12/19 09:53:02] GetDataFromDB.php Database selected..
+[2013/12/19 09:53:02] GetDataFromDB.php Connection closed
