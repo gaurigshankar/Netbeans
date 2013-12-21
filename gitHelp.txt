@@ -1,0 +1,15 @@
+git fetch gitnetbeans master --- only fetches no meges between remote and local files
+git pull gitnetbeans master ---- merge local and remote
+git add <<fileName>>
+git status
+git lg
+git commit
+git status
+git lg
+git push gitneatbeans master
+
+Then check in github.com for the changes comiited
+
+
+----
+
