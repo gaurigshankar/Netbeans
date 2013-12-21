@@ -25,4 +25,3 @@ git lg
 git push gitnetbeans master
 git branch -d newFeature
 
-from NetBeansGITBranch
