@@ -5,22 +5,21 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
- $radius="3500";
- $var1="gauri";
- $envName="dev";
-if ($envName == 'dev') {
-    define("mySQLDBHost", "localhost:8889");
-    define("mySQLDBUserName","root");
-    define("mySQLDBPassword","root");
-    define("mySQLDBName","kosmixenterpris");
-}
-elseif ($envName == 'prod') {
+ $radius="1000";
+ define("envName", "prod");
+//if ($envName == 'dev') {
+//    define("mySQLDBHost", "localhost:8889");
+//    define("mySQLDBUserName","root");
+//    define("mySQLDBPassword","root");
+//    define("mySQLDBName","kosmixenterpris");
+//}
+//elseif ($envName == 'prod') {
     define("mySQLDBHost", "kosmixenterprises.com.mysql");
     define("mySQLDBUserName","kosmixenterpris");
     define("mySQLDBPassword","G3GYt3RZ");
     define("mySQLDBName","kosmixenterpris");
-}
-
+//}
+    
 function logToFile($msg)
    { 
     $logFileName="current.log";

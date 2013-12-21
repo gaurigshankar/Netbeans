@@ -21,6 +21,7 @@ class GetDataFromDB {
 
     
     function getConnection(){
+        echo envName,mySQLDBHost;
         try{
             $conn = @mysql_connect(mySQLDBHost,mySQLDBUserName,mySQLDBPassword);
             if(!$conn){
@@ -72,9 +73,6 @@ class GetDataFromDB {
         
     }
 
-    function getStoresCloseToGivenCoord(){
-        
-    }
     
     function getStoreTypes(){
         try{
@@ -116,5 +114,58 @@ class GetDataFromDB {
         
         }
     }
-    function 
+    function insertNewCustomer($phoneNo,$firstName,$lastName,$userId,$address){
+       logToFile(basename(__FILE__)." Start insert to new customer ");
+        try{
+            $insertQuery = "INSERT INTO `customer_details`(`phone_number`, `first_name`, `last_name`, `user_id`, `address`) 
+                VALUES ($phoneNo,'$firstName','$lastName','$userId','$address')";
+             logToFile(basename(__FILE__)." The Query is" .$insertQuery);
+            mysql_query($insertQuery);
+            mysqli_query($insertQuery);
+             mysqli_query("commit");
+            logToFile(basename(__FILE__)." end insert to new customer ");
+        }
+        catch (Exception $e){
+            logToFile(basename(__FILE__)." Exception in inserting New Customer ".$e->getMessage());
+        }
+    }
+    
+    function insertNewOrder($phoneNo,$orderText,$imageLocation){
+        try{
+            logToFile(basename(__FILE__)." Start insert to new order ");
+             $insertQuery = "INSERT INTO `orderTable`( `phone_number`, `order_text`, `image_location`)
+                 VALUES ($phoneNo,'$orderText','$imageLocation')";
+             
+             logToFile(basename(__FILE__)." The Query is" .$insertQuery);
+             mysql_query($insertQuery);
+             mysql_query("commit");
+             $orderId = mysql_insert_id();logToFile(basename(__FILE__)." end insert to new order ");
+             return $orderId;
+        }
+        catch (Exception $e){
+            logToFile(basename(__FILE__)." Exception in inserting New Order ".$e->getMessage());
+        }
+    }
+       function getStoresCloseToGivenCoord($center_lat,$center_lng){
+
+
+        if(!is_null($center_lat) && !is_null($center_lng) ){
+         $this->getConnection();
+         $this->selectDatabase();
+         $radius="2500";
+
+        $query = sprintf("SELECT address, StoreName, latitude, longitude, ( 3959 * acos( cos( radians('%s') ) * cos( radians( latitude ) ) * cos( radians( longitude ) - radians('%s') ) + sin( radians('%s') ) * sin(radians( latitude ) ) ) ) AS distance FROM StoreDetails HAVING distance < '%s' ORDER BY distance LIMIT 0 , 20",
+        mysql_real_escape_string($center_lat),
+        mysql_real_escape_string($center_lng),
+        mysql_real_escape_string($center_lat),
+        mysql_real_escape_string($radius));
+        $result = mysql_query($query);
+
+        if (!$result) {
+            die("Invalid query: " . mysql_error());
+        }
+        $this->closeConnection();
+        return $result;
+        }
+       }
 }

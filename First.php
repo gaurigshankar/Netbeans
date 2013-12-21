@@ -16,7 +16,16 @@ include ('GetDataFromDB.php');
 
 
             $connection->selectDatabase();// closed connection
-            $connection->getAreaCodes();
+//            $phoneNo="9790902028";
+//            $firstName="Gauri";
+//            $lastName="Shankar";
+//            $userId ="gauri.gshankar";
+//            $address ="Address Value";
+//            $orderText = "turmeric powder 1 packet";
+//            $imageLocation = "na";
+            
+            $connection->insertNewCustomer($_POST[phoneNo],$_POST[firstName],$_POST[lastName],$_POST[userId],$_POST[address]);
+            $connection->insertNewOrder($_POST[phoneNo],$_POST[orderText],$_POST[imageLocation]);
             $connection->closeConnection();
          
          
