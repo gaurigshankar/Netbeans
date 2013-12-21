@@ -14,3 +14,8 @@ Then check in github.com for the changes comiited
 ----
 git branch newFeature
 git checkout newFeature
+
+git add .
+git commit
+
+git checkout master
